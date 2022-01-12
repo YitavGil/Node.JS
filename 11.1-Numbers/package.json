@@ -1,0 +1,15 @@
+{
+  "name": "10.1-express_routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "numbers.js",
+  "scripts": {
+    "devStart": "nodemon numbers.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
